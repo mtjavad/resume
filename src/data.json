@@ -1,0 +1,44 @@
+{
+  "section": [
+
+    {"title": "Hello, I'm M.J !",
+    "subtitle": "Web Developer | Open Source ",
+    "links": {
+      "pinterest": "https://www.pinterest.com",
+      "twitter": "https://twitter.com" ,
+      "plus.google": "https://plus.google.com",
+      "instagram":"https://www.instagram.com"},
+
+      "down": "/images/iconfinder_down.png"
+    },
+
+    {"title": "About",
+    "content": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+      "down": "/images/iconfinder_down.png"
+    },
+
+    {"title": "Skills",
+    "content": [
+      {"img": "/images/iconfinder_html5.png",
+      "caption": "HTML"},
+
+      {"img": "/images/iconfinder_css.png",
+        "caption": "CSS"},
+
+      {"img": "/images/iconfinder_javascript.png",
+        "caption": "Java Script"},
+
+      {"img": "/images/iconfinder_jquery.png",
+        "caption": "jQuery"},
+
+      {"img": "/images/iconfinder_react.png",
+        "caption": "React"}
+    ],
+      "up": "/images/iconfinder_up.png"
+    },
+    {
+      "themeIcon": "/images/iconfinder_preferences.png"
+    }
+  ]
+
+}
